@@ -1,0 +1,155 @@
+.header{
+    width: 100%;
+    height: 60px;
+}
+
+body{
+    margin: 0%;
+}
+
+.logo{
+    width: 181px;
+    height: 35.4px;
+    margin-left: 150px;
+    margin-top: 10px;
+    float: left;
+}
+
+.login{
+
+
+    background-color:#fff;
+    width: 90%;
+    height: 60px;
+    float:left;
+    text-decoration: none;
+    
+
+}
+
+.firsthalf{
+    width: 50%;
+    height: 60px;
+    float:left;
+}
+
+.secondhalf{
+    width: 50%;
+    height: 60px;
+    float: left;
+}
+
+.logincontrol{
+    margin-left: 60%;
+    margin-top: 3%;
+    text-decoration: none;
+}
+
+.left-portion{
+    width: 490px;
+    height: 1233.05px;
+    float: left;
+
+}
+
+.right-portion{
+    width: 953px;
+    height: 1100px;
+    float: left;
+}
+
+.image{
+    width: 125px;
+    height: 109px;
+    margin-top: 105px;
+    margin-left: 225px;
+
+}
+
+.right-text{
+    width: 241px;
+    height: 500px;
+    margin-left: 163px;
+    float: left;
+}
+
+.text{
+    width: 606px;
+    height: 967.05px;
+    margin-left: 100px;
+    float: left;
+}
+
+.global-title{
+    margin: 60px;
+    margin-top: 100px;
+    margin-left: -3px;
+    font-weight: 700;
+}
+
+.text button{
+    background-color:#ff7555;
+    color:#fff;
+    float: left;
+}
+
+body{
+    font-family: Inter;
+}
+
+.decoration{
+    text-decoration: none;
+}
+
+.main-body{
+    background-color:#F0FFFF;
+    border-top: 1px solid #cec8c8;
+
+}
+.body{
+    background: #fafbfe;
+}
+.right-text h2{
+    width: 218px;
+    font-weight: 700;
+    font-size: 21px;
+    display: block;
+    margin-left: 23px;
+}
+
+.right-text ul li p{
+    font-size: 15px;
+    color: #445578;
+}
+
+form hr{
+    border-radius: 0%;
+}
+
+.text label{
+    color: #445578;
+    font-weight: 600;
+    
+}
+
+.footer{
+    padding: 100px;
+    
+
+
+}
+.footer a{
+    margin-left: 113px;
+}
+
+form a{
+    text-decoration: none;
+}
+
+.footer a{
+    text-decoration: none;
+
+}
+.google{
+    margin-top: 274px;
+}
